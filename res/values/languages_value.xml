@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Preference titles -->
+    <string name="preferences" translatable="false">PREFERENCES</string>
+    <string name="language" translatable="false">Language</string>
+    <string name="select_language" translatable="false">Select language</string>
+
+    <!-- Default language -->
+    <string name="language_english" translatable="false">English</string>
+
+    <!-- Language names -->
+    <string-array name="language_names">
+        <item>English</item>
+        <item>Español (Spanish)</item>
+        <item>Français (French)</item>
+        <item>Deutsch (German)</item>
+        <item>Italiano (Italian)</item>
+        <item>日本語 (Japanese)</item>
+        <item>한국어 (Korean)</item>
+        <item>中文 (Chinese)</item>
+        <item>Português (Portuguese)</item>
+        <item>Русский (Russian)</item>
+        <item>العربية (Arabic)</item>
+        <item>हिन्दी (Hindi)</item>
+    </string-array>
+
+    <!-- Language codes -->
+    <string-array name="language_codes">
+        <item>en</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>ko</item>
+        <item>zh</item>
+        <item>pt</item>
+        <item>ru</item>
+        <item>ar</item>
+        <item>hi</item>
+    </string-array>
+</resources>

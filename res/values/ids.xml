@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="roundTripTextView" type="id" />
+    <item name="oneWayTextView" type="id" />
+    <item name="multiCityTextView" type="id" />
+    <item name="originDestinationField" type="id" />
+    <item name="dateSelectionField" type="id" />
+    <item name="articlesHeaderTextView" type="id" />
+    <item name="tripTypeLayout" type="id" />
+    <item name="articlesPlaceholder" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="profileImageView" type="id" />
+    <item name="logoImageView" type="id" />
+</resources>

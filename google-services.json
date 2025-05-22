@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86793358015",
+    "project_id": "clouddartjetways",
+    "storage_bucket": "clouddartjetways.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86793358015:android:7b5071e49c10d51f8b940a",
+        "android_client_info": {
+          "package_name": "com.example.clouddart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO7Tnmp36F9Yp116gKFu4sqaYXHcDHVQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

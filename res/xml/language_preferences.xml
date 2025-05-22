@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#FFFFFF">
+    <PreferenceCategory
+        android:key="language_category"
+        android:title="@string/preferences"
+        android:layout="@layout/preference_category_layout"
+        app:iconSpaceReserved="false">
+
+        <Preference
+            android:key="language_preference"
+            android:title="@string/language"
+            android:icon="@drawable/ic_language"
+            android:summary="%s"
+            android:defaultValue="@string/language_english"
+            android:layout="@layout/preferences_language_layout" />
+
+        <ListPreference
+            android:key="app_language"
+            android:title="@string/language"
+            android:summary="%s"
+            android:defaultValue="en"
+            android:icon="@drawable/ic_language"
+            android:entries="@array/language_names"
+            android:entryValues="@array/language_codes"
+            android:dialogTitle="@string/select_language"
+            android:layout="@layout/preferences_language_layout"
+            app:dialogLayout="@layout/language_selection_dialog" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
