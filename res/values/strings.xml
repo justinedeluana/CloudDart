@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name" translatable="false">CloudDart</string>
-    <string name="loyalty_rewards" translatable="false"><![CDATA[Loyalty &
-     Rewards]]></string>
-    <string name="CloudDartJetWays">CloudDartJetways\n</string>
-    <string name="CloudDart">CloudDart</string>
-</resources>
